@@ -10,7 +10,7 @@ Password if the rules are followed or Invalid Password otherwise.
 */
 import java.util.Scanner;
 
-public class Exercise_06_18 {
+public class password {
 	/** Main Method */
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in); // Create a Scanner
